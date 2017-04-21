@@ -1,0 +1,27 @@
+{
+  "name": "multipart-form-parser",
+  "version": "1.0.0",
+  "description": "Simple multi-part form parser middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10uei011/multipart-form-parser.git"
+  },
+  "keywords": [
+    "form",
+    "post",
+    "multipart",
+    "form-data",
+    "express.",
+    "middleware"
+  ],
+  "author": "dipesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/10uei011/multipart-form-parser/issues"
+  },
+  "homepage": "https://github.com/10uei011/multipart-form-parser#readme"
+}
